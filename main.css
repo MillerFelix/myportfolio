@@ -553,3 +553,7 @@ input[type="submit"]:hover {
     right: 2rem;
   }
 }
+.social-media .fa-linkedin:hover {
+  color: #0077B5; /* Cor desejada ao passar o mouse */
+  transition: color 650ms; /* Adiciona uma transição suave de cor */
+}
