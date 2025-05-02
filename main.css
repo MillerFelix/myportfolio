@@ -333,7 +333,7 @@ li {
   animation: css 1s;
 }
 .javascript {
-  width: 67%;
+  width: 72%;
   animation: js 1s;
 }
 .react {
@@ -345,15 +345,15 @@ li {
   animation: angular 1s;
 }
 .java {
-  width: 63%;
+  width: 80%;
   animation: java 1s;
 }
 .spring {
-  width: 77%;
+  width: 90%;
   animation: spring 1s;
 }
 .sql {
-  width: 68%;
+  width: 80%;
   animation: sql 1s;
 }
 .contact {
